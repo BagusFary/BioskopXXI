@@ -13,7 +13,7 @@
         <li class="nav-item">
           <a class="nav-link {{ Request::is('dashboard/posts*') ? 'active' : '' }}" href="/dashboard/posts">
             <span data-feather="file-text"></span>
-            Create New Movie
+            Create New Movie / Add Discount
           </a>
         </li>
       </ul>
